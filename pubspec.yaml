@@ -1,7 +1,6 @@
 name: app_avaliability
 description: Fix of Flutter plugin that allows you to check if an app is installed/enabled, launch an app and get the list of installed apps.
 version: 0.0.1
-author: Sebastian Garzon <nestorsgarzonc@gmail.com>
 homepage: https://github.com/nestorsgarzonc/flutter_appavailability
 
 environment:
