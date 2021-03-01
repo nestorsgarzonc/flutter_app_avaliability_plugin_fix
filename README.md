@@ -2,7 +2,8 @@
 
 [![Pub](https://img.shields.io/pub/v/flutter_appavailability.svg)](https://pub.dartlang.org/packages/flutter_appavailability)
 
-# This is a fork of this package [flutter_appavailability])(https://pub.dev/packages/flutter_appavailability) solving some bugs...
+# Note:
+This is a fork of this package [flutter_appavailability])(https://pub.dev/packages/flutter_appavailability) solving some bugs...
 
 
 A Flutter plugin that allows you to check if an app is installed/enabled, launch an app and get the list of installed apps.
